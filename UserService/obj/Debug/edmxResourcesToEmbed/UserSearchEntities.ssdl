@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UserSearchModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="UserSearchModelStoreContainer">
+    <EntitySet Name="User" EntityType="UserSearchModel.Store.User" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserAccount" EntityType="UserSearchModel.Store.UserAccount" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__UserAccou__UserI__1273C1CD" Association="UserSearchModel.Store.FK__UserAccou__UserI__1273C1CD">
+      <End Role="User" EntitySet="User" />
+      <End Role="UserAccount" EntitySet="UserAccount" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="Name" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="SurName" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="UserPassword" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="E-Mail" Type="varchar" Nullable="false" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="UserAccount">
+    <Key>
+      <PropertyRef Name="AccountID" />
+    </Key>
+    <Property Name="AccountID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Account" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="Balans" Type="int" />
+    <Property Name="Currency" Type="varchar" Nullable="false" MaxLength="5" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__UserAccou__UserI__1273C1CD">
+    <End Role="User" Type="UserSearchModel.Store.User" Multiplicity="1" />
+    <End Role="UserAccount" Type="UserSearchModel.Store.UserAccount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="UserAccount">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="spAddAccount" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Account" Type="varchar" Mode="In" />
+    <Parameter Name="Currency" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="spAddUser" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="UserName" Type="varchar" Mode="In" />
+    <Parameter Name="Name" Type="varchar" Mode="In" />
+    <Parameter Name="SurName" Type="varchar" Mode="In" />
+    <Parameter Name="UserPassword" Type="varchar" Mode="In" />
+    <Parameter Name="EMail" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="spSearch" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="UserName" Type="varchar" Mode="In" />
+  </Function>
+</Schema>

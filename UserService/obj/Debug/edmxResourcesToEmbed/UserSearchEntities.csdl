@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UserSearchModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="UserSearchEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="UserSearchModel.User" />
+    <EntitySet Name="UserAccounts" EntityType="UserSearchModel.UserAccount" />
+    <AssociationSet Name="FK__UserAccou__UserI__1273C1CD" Association="UserSearchModel.FK__UserAccou__UserI__1273C1CD">
+      <End Role="User" EntitySet="Users" />
+      <End Role="UserAccount" EntitySet="UserAccounts" />
+    </AssociationSet>
+    <FunctionImport Name="spAddAccount">
+      <Parameter Name="Account" Mode="In" Type="String" />
+      <Parameter Name="Currency" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="spAddUser">
+      <Parameter Name="UserName" Mode="In" Type="String" />
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="SurName" Mode="In" Type="String" />
+      <Parameter Name="UserPassword" Mode="In" Type="String" />
+      <Parameter Name="EMail" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="spSearch" ReturnType="Collection(UserSearchModel.spSearch_Result)">
+      <Parameter Name="UserName" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="SurName" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="UserPassword" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="E_Mail" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="UserAccounts" Relationship="UserSearchModel.FK__UserAccou__UserI__1273C1CD" FromRole="User" ToRole="UserAccount" />
+  </EntityType>
+  <EntityType Name="UserAccount">
+    <Key>
+      <PropertyRef Name="AccountID" />
+    </Key>
+    <Property Name="AccountID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Account" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <Property Name="Balans" Type="Int32" />
+    <Property Name="Currency" Type="String" Nullable="false" MaxLength="5" Unicode="false" FixedLength="false" />
+    <Property Name="UserID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="UserSearchModel.FK__UserAccou__UserI__1273C1CD" FromRole="UserAccount" ToRole="User" />
+  </EntityType>
+  <Association Name="FK__UserAccou__UserI__1273C1CD">
+    <End Role="User" Type="UserSearchModel.User" Multiplicity="1" />
+    <End Role="UserAccount" Type="UserSearchModel.UserAccount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="UserAccount">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="spSearch_Result">
+    <Property Type="Int32" Name="UserID" Nullable="false" />
+    <Property Type="String" Name="UserName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="SurName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="UserPassword" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="E_Mail" Nullable="false" MaxLength="100" />
+  </ComplexType>
+</Schema>

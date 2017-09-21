@@ -1,0 +1,72 @@
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\ServiceClient.dll.config
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\ServiceClient.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\ServiceClient.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\EntityFramework.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\Newtonsoft.Json.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\EntityFramework.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\Newtonsoft.Json.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\obj\Debug\ServiceClient.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\obj\Debug\ServiceClient.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\log4net.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\SearchUser\ServiceClient\bin\Debug\log4net.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\ServiceClient.dll.config
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\ServiceClient.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\ServiceClient.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\EntityFramework.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\log4net.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\Newtonsoft.Json.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\EntityFramework.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\log4net.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\Newtonsoft.Json.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\obj\Debug\ServiceClient.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\SearchUser\ServiceClient\obj\Debug\ServiceClient.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\ServiceClient.dll.config
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\ServiceClient.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\ServiceClient.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\EntityFramework.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\log4net.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\Newtonsoft.Json.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\EntityFramework.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\log4net.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\Newtonsoft.Json.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\obj\Debug\ServiceClient.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\SearchUser\ServiceClient\obj\Debug\ServiceClient.pdb
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\ServiceClient.dll.config
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\ServiceClient.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\ServiceClient.pdb
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\EntityFramework.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\log4net.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\Newtonsoft.Json.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\EntityFramework.xml
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\log4net.xml
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\Newtonsoft.Json.xml
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\obj\Debug\ServiceClient.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\SearchUser\ServiceClient\obj\Debug\ServiceClient.pdb

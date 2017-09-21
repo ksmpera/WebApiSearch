@@ -1,0 +1,48 @@
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\obj\Debug\UserService.csprojResolveAssemblyReference.cache
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\UserService.dll.config
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\EntityFramework.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\EntityFramework.SqlServer.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\EntityFramework.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\EntityFramework.SqlServer.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\obj\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\obj\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\log4net.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchX\UserService\bin\Debug\log4net.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\obj\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\UserService.dll.config
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\EntityFramework.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\EntityFramework.SqlServer.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\log4net.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\EntityFramework.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\EntityFramework.SqlServer.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\bin\Debug\log4net.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\obj\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\WebAPISearchXLog4Net\UserService\obj\Debug\UserService.csprojResolveAssemblyReference.cache
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\UserService.dll.config
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\EntityFramework.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\EntityFramework.SqlServer.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\log4net.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\EntityFramework.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\EntityFramework.SqlServer.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\bin\Debug\log4net.xml
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\obj\Debug\UserService.csprojResolveAssemblyReference.cache
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\obj\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\WebApiSearchUserFolder\Test\WebAPISearchXLog4Net\UserService\obj\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\UserService.dll.config
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\UserService.pdb
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\EntityFramework.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\EntityFramework.SqlServer.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\log4net.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\EntityFramework.xml
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\EntityFramework.SqlServer.xml
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\bin\Debug\log4net.xml
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\obj\Debug\UserService.csprojResolveAssemblyReference.cache
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\obj\Debug\UserService.dll
+D:\pera\WEB API\Test Project 1Hour\HTML5\WebAPISearchXLog4Net - HTML\UserService\obj\Debug\UserService.pdb
